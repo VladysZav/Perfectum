@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress open": "npx cypress open",
+    "cypress run": "npx cypress run",
+    "cypress run wirh chrome": "npx cypress run --browser chrome"
+  },
+  "author": "zavalii",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
